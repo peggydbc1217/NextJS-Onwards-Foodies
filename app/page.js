@@ -20,7 +20,7 @@ export default function Home() {
           </div>
         </div>
       </header>
-
+      ;
       <main>
         <section className={classes.section}>
           <h2>How it works</h2>
